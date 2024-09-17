@@ -1,0 +1,10 @@
+ Volume in drive D is New Volume
+ Volume Serial Number is 28E5-FFE0
+
+ Directory of D:\DBS Onboarding document for extention\GitDemoProject
+
+17-09-2024  20:33    <DIR>          .
+17-09-2024  20:27    <DIR>          ..
+17-09-2024  20:33                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  159,117,213,696 bytes free
